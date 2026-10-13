@@ -1,77 +1,127 @@
-<h1 align="center">Arthur Sampaio Diniz</h1>
+# Arthur Sampaio Diniz
 
-<p align="center">
-  Desenvolvedor backend em formação, construindo aplicações com Java, Spring Boot e .NET.
-</p>
+**Backend Development | Cybersecurity | Artificial Intelligence | Game Development**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthur-sdiniz/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/arthursdiniz?tab=repositories">
-    <img alt="Projetos no GitHub" src="https://img.shields.io/badge/Projetos-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara, em Santos, SP. Desenvolvo aplicações com Java e Spring Boot e estou aprofundando meus conhecimentos em Segurança da Informação.
+
+[LinkedIn](https://www.linkedin.com/in/arthur-sdiniz/) · [GitHub](https://github.com/arthursdiniz) · [Meus repositórios](https://github.com/arthursdiniz?tab=repositories)
+
+---
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC**, em Santos-SP. Tenho foco em desenvolvimento backend e gosto de transformar problemas reais em software organizado, seguro e evolutivo.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Baixada Santista – Rubens Lara**, em fase final de graduação.
 
-Atualmente, venho aprofundando conhecimentos em:
+Minha principal linguagem é **Java**, com experiência acadêmica e prática no desenvolvimento de aplicações backend, APIs REST, bancos de dados relacionais e arquitetura de software.
 
-- APIs REST e aplicações backend com **Java e Spring Boot**;
-- modelagem de dados com **PostgreSQL e MySQL**;
-- desenvolvimento com **C# e .NET**;
-- integração entre backend, processamento assíncrono e ferramentas de IA;
-- qualidade de código, testes automatizados, segurança e Git.
+Atualmente, estou direcionando meus estudos para **Cibersegurança**, principalmente Blue Team, SOC, monitoramento, análise de logs, detecção de ameaças e segurança de aplicações.
 
-## Projeto em destaque
+Também gosto de explorar inteligência artificial, desenvolvimento de jogos e ferramentas que resolvam problemas reais.
 
-### [Clipador — geração inteligente de cortes de vídeo](https://github.com/arthursdiniz/clipador)
+**Principais interesses:** Cybersecurity, SOC, Backend Development, IA local e Game Development.
 
-Sistema que transforma vídeos longos em clipes curtos relevantes para Shorts, Reels e TikTok. O projeto combina uma API em **Java 25 e Spring Boot**, worker especializado em **Python**, transcrição local com **Whisper**, processamento com **FFmpeg**, mensageria com **RabbitMQ**, persistência em **PostgreSQL** e interface em **React/TypeScript**.
+## Projetos em destaque
 
-Principais desafios trabalhados no projeto:
+### Segurança da Informação
 
-- pipeline assíncrono, idempotente e recuperável;
-- seleção semântica e multimodal de momentos relevantes;
-- geração de legendas e renderização em múltiplos formatos;
-- smart reframing para vídeos verticais;
-- observabilidade, validação de arquivos e proteção contra entradas maliciosas.
+**[Attack vs Detection Lab](https://github.com/arthursdiniz/attack-vs-detection-lab)**
 
-## Outros projetos
+Laboratório de cibersegurança que simula técnicas de ataque em ambientes isolados e trabalha com coleta de logs, SIEM, criação de regras de detecção e investigação de incidentes.
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Minhas Receitas](https://github.com/arthursdiniz/Minhas-Receitas-SpringBoot) | Aplicação para criação e organização de receitas. | Java, Spring Boot, MySQL |
-| [Zelda-like](https://github.com/arthursdiniz/zeldalike_java) | Jogo inspirado em aventuras clássicas, desenvolvido sem engine. | Java |
-| [Escaneador de portas](https://github.com/arthursdiniz/Escaneador-de-portas-Python) | Projeto de estudo sobre redes e identificação de portas. | Python |
+*Tecnologias:* Wazuh, Sysmon, Linux, Sigma e MITRE ATT&CK.
 
-## Tecnologias
+**[Password Strength Analyzer](https://github.com/arthursdiniz/password-strength-analyzer)**
 
-**Backend e linguagens**
+Ferramenta de linha de comando para análise local da força de senhas, desenvolvida como projeto de estudo de programação e segurança.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+*Tecnologias:* Java, Maven e JUnit.
 
-**Dados e infraestrutura**
+### Backend e aplicações
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**[Clipador](https://github.com/arthursdiniz/clipador)**
+
+Sistema de geração de clipes curtos a partir de vídeos longos, utilizando transcrição local, análise de conteúdo, processamento assíncrono e renderização automatizada.
+
+*Tecnologias:* Java, Spring Boot, Python, Whisper, FFmpeg, RabbitMQ, PostgreSQL e React.
+
+**[Job Platform](https://github.com/arthursdiniz/job-platform)**
+
+Plataforma de vagas de emprego com autenticação, autorização por perfis, gerenciamento de candidaturas, filtros, favoritos e interface web.
+
+*Tecnologias:* Java, Spring Boot, Spring Security, JWT, PostgreSQL e React.
+
+**[Diniz.Dev — Portfólio](https://github.com/arthursdiniz/portifolio)**
+
+Portfólio profissional com interface web e API REST para gerenciamento de projetos.
+
+*Tecnologias:* Java, Spring Boot, PostgreSQL, HTML, CSS e JavaScript.
+
+### Inteligência Artificial e desenvolvimento de jogos
+
+**[Forge3D AI](https://github.com/arthursdiniz/forge3D-ai)**
+
+Ferramenta pessoal para geração local de modelos 3D a partir de imagens, com ferramentas de refinamento de malhas e exportação de assets para Unity.
+
+*Tecnologias:* Python, modelos generativos 3D, Blender, FBX e GLB.
+
+**[Skybound Volleyball](https://github.com/arthursdiniz/Skybound-Volleyball)**
+
+Jogo de vôlei 3D em desenvolvimento na Unity, inspirado em animes esportivos, com foco em movimentação, física da bola e mecânicas de vôlei.
+
+*Tecnologias:* Unity, C# e Input System.
+
+**[Arcane Survivor](https://github.com/arthursdiniz/arcane-survivor)**
+
+Roguelite 2D de sobrevivência com ataques automáticos, ondas de inimigos, evolução de habilidades e batalhas contra chefes.
+
+*Tecnologias:* Java, LibGDX e Maven.
+
+**[Pokédex Kotlin](https://github.com/arthursdiniz/pokedex-api)**
+
+Aplicativo Android que utiliza a PokéAPI para exibir Pokémon, pesquisar por nome e consultar atributos e habilidades.
+
+*Tecnologias:* Kotlin, Jetpack Compose, Retrofit e Coroutines.
+
+## Tecnologias e ferramentas
+
+| Área | Conhecimentos |
+|---|---|
+| Linguagens | Java, Python, C#, Kotlin, TypeScript, SQL |
+| Backend | Spring Boot, Spring Security, APIs REST, JPA/Hibernate |
+| Banco de dados | PostgreSQL, MySQL, SQL Server |
+| Infraestrutura | Linux, Docker, Git, GitHub |
+| Cybersecurity | Redes TCP/IP, SIEM, Wazuh, Sysmon, OWASP Top 10, MITRE ATT&CK |
+| Desenvolvimento de jogos | Unity, C#, LibGDX |
+
+## Formação e cursos
+
+**Análise e Desenvolvimento de Sistemas**
+
+FATEC Baixada Santista – Rubens Lara
+
+**Cursos e certificações**
+
+- Cisco — Introduction to Cybersecurity
+- Cisco — Networking Basics
+- Cisco — Junior Cybersecurity Analyst Career Path (em andamento)
+- FIAP — Linux Fundamentos
+- FIAP — Cybersecurity
+
+## Atualmente estudando
+
+- Segurança da Informação e operações de SOC
+- Monitoramento e detecção de ameaças
+- Linux e fundamentos de redes
+- Segurança de aplicações
+- Desenvolvimento backend com Java e Spring Boot
+- Inteligência artificial aplicada a ferramentas e jogos
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/arthur-sdiniz/)
-- [GitHub](https://github.com/arthursdiniz)
-- [Instagram](https://instagram.com/arthursdnz)
+**LinkedIn:** [arthur-sdiniz](https://www.linkedin.com/in/arthur-sdiniz/)
 
-<p align="center">
-  <sub>Aprendendo continuamente e construindo projetos que aproximam teoria de problemas reais.</sub>
-</p>
+**GitHub:** [arthursdiniz](https://github.com/arthursdiniz)
+
+---
+
+*Aprendendo continuamente e transformando ideias em projetos reais.*
